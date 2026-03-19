@@ -1,6 +1,6 @@
 # CabalSpy
 
-**Multi-chain, real-time KOL & Smart Money intelligence for Solana, BNB and Base.**
+**Multi-chain, real-time labeled Wallet intelligence for Solana, BNB and Base.**
 
 CabalSpy tracks a curated set of Key Opinion Leaders, Smart Money wallets and Whales across three chains — monitoring every transaction in real time and surfacing actionable data through an API, WebSocket stream, embeddable widget and web dashboard.
 
