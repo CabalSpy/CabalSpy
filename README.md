@@ -26,7 +26,7 @@ The core idea is simple: the most profitable traders on-chain leave a trail. Cab
 
 ## Who uses it
 
-CabalSpy data powers [Axiom Exchange](https://x.com/AxiomExchange), [Trade Genius](https://tradegenius.com/) [o1 Exchange](https://x.com/o1_exchange), [Trojan on Solana](https://x.com/TrojanOnSolana) and [Glyde](https://x.com/GlydeGG), among others.
+CabalSpy data powers [Axiom Exchange](https://x.com/AxiomExchange), [Trade Genius](https://tradegenius.com/), [o1 Exchange](https://x.com/o1_exchange), [Trojan on Solana](https://x.com/TrojanOnSolana) and [Glyde](https://x.com/GlydeGG), among others.
 
 ---
 
